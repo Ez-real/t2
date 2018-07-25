@@ -10,6 +10,8 @@ namespace t2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tym");
+
         }
     }
 }
